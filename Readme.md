@@ -1,1 +1,1 @@
-# fact
+# AMD yes
